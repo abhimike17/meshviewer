@@ -1,22 +1,4 @@
-Name and CLID: Abhijeeth, axb6412
-Assignment: CSCE 515
-Specify CMPS 415 or CSCE 515:
---
-Has anyone helped you with this assignment: No 
-If yes, identify them and describe the level of help:
 
-
-Did you help anyone else with this assignment: No 
-If yes, identify them and describe the level of help:
-
-
-Have you incorporated anything from outside sources (web sites, books, previous semesters, etc?): No
-If yes, specify the source and level of similarity:
-I have used the examples taught in class to do my assignment
-
-(NOTE: There may be a point reduction if you violate the “Academic Integrity” policy in the syllabus. But, if described accurately above, there will be no further disciplinary action.)
-
---
 Compiler: Microsoft Visual C++ 
 Operating System: Windows 10
 GLUT version (if used): 3.3
