@@ -1,0 +1,25 @@
+﻿  main.cpp
+c:\users\abhi_\source\repos\project4\project4\mat.h(16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\abhi_\source\repos\project4\project4\mat.h(701): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhi_\source\repos\project4\project4\mat.h(702): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhi_\source\repos\project4\project4\mat.h(703): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhi_\source\repos\project4\project4\mat.h(724): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhi_\source\repos\project4\project4\mat.h(726): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhi_\source\repos\project4\project4\mat.h(729): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhi_\source\repos\project4\project4\mat.h(746): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhi_\source\repos\project4\project4\shaderloader.h(13): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+c:\users\abhi_\source\repos\project4\project4\main.cpp(74): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\abhi_\source\repos\project4\project4\main.cpp(74): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abhi_\source\repos\project4\project4\main.cpp(218): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\abhi_\source\repos\project4\project4\main.cpp(220): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\abhi_\source\repos\project4\project4\main.cpp(257): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abhi_\source\repos\project4\project4\main.cpp(278): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+c:\users\abhi_\source\repos\project4\project4\main.cpp(382): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\abhi_\source\repos\project4\project4\main.cpp(383): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\abhi_\source\repos\project4\project4\main.cpp(384): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\abhi_\source\repos\project4\project4\main.cpp(385): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\abhi_\source\repos\project4\project4\main.cpp(407): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\abhi_\source\repos\project4\project4\main.cpp(414): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\abhi_\source\repos\project4\project4\main.cpp(416): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project4.vcxproj -> C:\Users\abhi_\source\repos\Project4\Debug\Project4.exe
+  Project4.vcxproj -> C:\Users\abhi_\source\repos\Project4\Debug\Project4.pdb (Partial PDB)
